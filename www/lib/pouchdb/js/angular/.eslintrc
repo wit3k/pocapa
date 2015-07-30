@@ -1,0 +1,6 @@
+extends: tlvince
+globals:
+  angular: false
+rules:
+  newline-after-var: 0
+  no-continue: 0
